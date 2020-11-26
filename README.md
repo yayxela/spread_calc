@@ -14,6 +14,8 @@
 
 ## Самому
 ```
+> python venv venv
+> .\venv\Scripts\activate
 > pip install requirements.txt
 ```
 
